@@ -687,6 +687,11 @@ body.lock {
   line-height: 1.2;
   color: #141419;
   padding-top: 51px;
+  display: inline;
+  background-repeat: no-repeat;
+  background-position: center bottom 14px;
+  background-size: 100% 10px;
+  background-image: linear-gradient(white 2%, #fb973b 56%);
 }
 .section__subtitle,
 .section-center__subtitle,
